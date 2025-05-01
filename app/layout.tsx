@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Next Zero",
+  title: "Next Landing",
   description:
-    "An opinionated, stripped-down Next.js starter with zero bloat - clean, minimal, production-ready foundation.",
+    "An opinionated, stripped-down Next.js starter for landing pages.",
 };
 
 export default function RootLayout({
