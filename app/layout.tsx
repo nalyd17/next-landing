@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   title: "Next Landing",
   description:
     "An opinionated, stripped-down Next.js starter for landing pages.",
+  openGraph: {
+    title: "Next Landing",
+    description:
+      "An opinionated, stripped-down Next.js starter for landing pages.",
+  },
 };
 
 export default function RootLayout({
